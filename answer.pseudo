@@ -1,0 +1,8 @@
+/*
+public string fn_numwithname(string name)
+{
+random nxtnum=new random(DateTime.Now.MilliSeconds); //seed is given to give variation.
+string outstr=name+" "+nxtnum.next(6,15).ToString();
+return outstr;
+}
+*/
